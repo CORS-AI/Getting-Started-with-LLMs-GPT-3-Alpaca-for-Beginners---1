@@ -1,7 +1,7 @@
 # Getting-Started-with-LLMs-GPT-3-Alpaca-for-Beginners---1
 Code for Getting Started with LLMs: GPT-3 &amp; Alpaca for Beginners video Part 1
 
-This is a Jupyter Notebook file. Put it in a folder, download the sample data files and extract them in the same folder.
+This is a Jupyter Notebook file. Put it in a folder, download the sample data files from (https://drive.google.com/drive/folders/13YV2ZuzmMXIB3A3RXc_j-C3ESJMcp5TV?usp=sharing) and extract them in the same folder.
 
 Run Jupyter notebook and exectute all the lines. 
 
